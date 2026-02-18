@@ -9,10 +9,10 @@ for (let i = min; i <= max; i += 1) {
     }
 }
 
-const min = 7
-const max = 70
+const minimum = 7
+const maximum = 70
 
-for (let i = min; i <= max; i += 1){
+for (let i = minimum; i <= maximum; i += 1){
     if (i % 7 === 0) {
     console.log(i);
     
